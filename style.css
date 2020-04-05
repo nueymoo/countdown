@@ -1,0 +1,43 @@
+body {
+    background-color: #5f8a8a;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Comic Neue', cursive;
+    color: white;
+}
+.content {
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.header {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 27px;
+
+}
+.count {
+    display: flex;
+    justify-content: center;
+    margin-top: -20px;
+}
+.number {
+    padding: 30px;
+    text-align: center;
+}
+.int {
+    font-size: 50px;
+    margin: 0;
+    margin-bottom: 0;
+}
+p {
+    margin: 0;
+}
+.pic {
+    width: 500px;
+    height: auto;
+
+}
